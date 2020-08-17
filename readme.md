@@ -34,7 +34,7 @@ I learnt a lot from this project, including a very basic understanding of flex-b
 1. My product landing page should utilize CSS flexbox at least once.
 ## Deployment
 
-Page is presently deployed on Github pages due to its static nature. Available at: 
+Page is presently deployed on Github pages due to its static nature. Available at: https://wade-roberts.github.io/FCC-Product-Landing-Page/
 
 ## Testing
 When viewing the page through it's Github Pages Deployment, simply click the small icon in the top left, select **"Product Landing Page"** and run the tests to see them completed. 
