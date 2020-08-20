@@ -1,7 +1,7 @@
 # Free Code Camp Product Landing Page Project
 Project undertaken as a part of FreeCodeCamp's Responsive Web Design Certification<br>
 **Project 3 of 5**<br>
-I learnt a lot from this project, including a very basic understanding of flex-box, I hope to use it more, but also need to be understand grid in order to use both in conjunction to full effect
+I learnt a lot from this project, including a very basic understanding of flex-box, I hope to use it more, but also need to be able understand grid in order to use both in conjunction to full effect
 ## User Stories
 1. My product landing page should have a header element with a corresponding id="header".
 
